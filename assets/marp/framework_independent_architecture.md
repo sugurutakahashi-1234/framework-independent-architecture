@@ -22,7 +22,7 @@ class: invert
 - 高橋 俊
   - iOS エンジニア
   - アカウント
-    - X: [@ikuraikuraaaaaa](https://twitter.com/ikuraikuraaaaaa)
+    - X: [@suguru_takaha4](https://x.com/suguru_takaha4)
     - GitHub: [@suguruTakahashi-1234](https://github.com/suguruTakahashi-1234)
   - 技術
     - Swift, iOS, IoT

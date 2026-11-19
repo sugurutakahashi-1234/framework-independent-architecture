@@ -399,5 +399,5 @@ Japanese Speaker Deck slides that supplement the FIA are presented below. If you
 
 ## Contact
 
-For questions or collaboration, please contact us at [![X URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fikuraikuraaaaaa)](https://twitter.com/ikuraikuraaaaaa)
+For questions or collaboration, please contact us at [![X URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsuguru_takaha4)](https://x.com/suguru_takaha4)
  or feel free to contact us at [Issue](https://github.com/suguruTakahashi-1234/framework-independent-architecture/issues) on GitHub.

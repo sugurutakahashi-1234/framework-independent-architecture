@@ -399,5 +399,5 @@ FIA について補足する日本語の Speaker Deck スライドを以下で�
 
 ## Contact
 
-ご質問やコラボレーションについては、[![X URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fikuraikuraaaaaa)](https://twitter.com/ikuraikuraaaaaa)
+ご質問やコラボレーションについては、[![X URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsuguru_takaha4)](https://x.com/suguru_takaha4)
  または GitHub の [Issue](https://github.com/suguruTakahashi-1234/framework-independent-architecture/issues) までお気軽にご連絡ください。
